@@ -1,0 +1,42 @@
+name: triade_digital
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  audioplayers: ^6.1.2
+  flutter:
+    sdk: flutter
+  flutter_gif: ^0.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - som/certo.mp3
+    - som/erro.mp3
+    - img/photo1.jpg
+    - img/photo2.jpg
+    - img/photo3.jpg
+    - img/photo4.jpg
+    - img/photo5.jpg
+    - img/photo6.jpg
+    - img/photo7.jpg
+    - img/photo8.jpg
+    - img/photo9.jpg
+    - img/photo10.jpg
+    - img/photo11.jpg
+    - img/photo12.jpg
+    - img/photo13.jpg
+    - img/photo14.jpg
+    - img/photo15.jpg
+    - gif/confetes.gif
+    - gif/confetti.gif
