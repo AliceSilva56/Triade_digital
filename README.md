@@ -1,5 +1,23 @@
-# Projeto tríade digital
+# Projeto Tríade Digital: Um Aplicativo Multifuncional
+O Projeto Tríade Digital consiste em um aplicativo móvel com três telas distintas, cada uma projetada para atender a funções específicas, proporcionando ao usuário uma experiência completa e versátil.
 
-Um projeto de 3 telas cada uma com uma função diferente
-Utilizando a IA BlackBox, dentro do Visual Studio Code, como eu já sabia como eu queria as telas fui dando comandos especifico a IA, então não tive muitos problemas para construir o projeto, eu queria que tivesse uma navigationaBar, com três ícones e que ao clicar em cada um me levasse as telas, que eu fui criando de acordo com o que eu queria.
-Tive problemas ao mandar ele fazer a animação de confetes, a IA começou fazendo um import de pacotes, depois mandei fazer o código a mão sem import, mas continuou dando erro, até que pensei e mandei ele fazer chamando um imagem/gif e fuincionou. Três dias depois tive que mandar ele fazer o código a mão, pois a imagem não estava mais funcionando e não sei o motivo, meu outro problema foi para colocar o som, tive alguns problemas com o código e como chamar o som, mas conseguir colocar mas o som só toca no emulador, no apk não toca
+# Desenvolvimento Assistido por IA
+A construção deste aplicativo foi realizada com o auxílio da inteligência artificial BlackBox, integrada ao Visual Studio Code. O uso da IA permitiu a criação eficiente das telas, seguindo as especificações e comandos definidos pelo desenvolvedor.
+
+# Interface Intuitiva e Navegação Simplificada
+O aplicativo apresenta uma navigationBar com três ícones, cada um correspondente a uma das telas. Este sistema de navegação garante ao usuário acesso rápido e intuitivo às funcionalidades do aplicativo.
+
+# Desafios de Desenvolvimento e Soluções Implementadas
+Durante o desenvolvimento, foram encontrados desafios específicos relacionados à animação de confetes e à implementação de som.
+
+# Animação de Confetes
+A animação de confetes apresentou dificuldades iniciais com a importação de pacotes e a implementação de código manual. A solução encontrada envolveu a utilização de imagens/GIFs, que, apesar de funcionarem inicialmente, apresentaram problemas posteriores. A implementação final da animação de confetes foi realizada por meio de código manual.
+
+# Implementação de Som
+A implementação de som no aplicativo também apresentou desafios relacionados ao código e à forma de chamar o áudio. Apesar da solução ter sido encontrada e o som estar funcional no emulador, a reprodução do áudio no arquivo APK ainda não foi resolvida, necessitando de investigação e ajustes para garantir a compatibilidade em dispositivos móveis.
+
+Próximos Passos
+O desenvolvimento do Projeto Tríade Digital continua em progresso, com foco na resolução do problema de som no APK, na integração do firebase e de novas funcionalidades para aprimorar a experiência do usuário.
+
+Conclusão
+O Projeto Tríade Digital representa um esforço contínuo de desenvolvimento, visando oferecer um aplicativo multifuncional e eficiente. Os desafios encontrados durante o processo de criação demonstram a importância da persistência e da capacidade de adaptação para alcançar os objetivos do projeto.
